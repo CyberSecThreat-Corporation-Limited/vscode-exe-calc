@@ -13,5 +13,5 @@ $ vsce package
 This demo extension can be manually installed via VS Code UI or CLI:
 
 ```shell
-$ code --install-extension venus-0.0.1.vsix
+$ code --install-extension vscode-exe-calc-0.0.1.vsix
 ```
